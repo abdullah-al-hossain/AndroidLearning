@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicButtonOperation</string>
+    <string name="title_activity_next">nextActivity</string>
+</resources>
